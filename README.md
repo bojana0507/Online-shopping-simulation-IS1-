@@ -1,0 +1,2 @@
+# Online-shopping-simulation-IS1-
+Implementing a client-server communication system utilizing MySQL and JDBC for database connectivity, JMS for messaging, and REST API for handling requests and responses. Server-side implemented using Java Maven web application in NetBeans and implementing JMS message producers and consumers to communicate with enterprise application client subsystems. Integrated RESTful web services utilizing Retrofit to enable efficient client-server communication.
